@@ -32,4 +32,11 @@ git commit -m "add files"
 git push origin master
 
 git status para ver el estatus de git
+
+
+una recomendacion cuando se quieren usar repositorios es hacer forks (una alternativa a git clone)
+
+los forks lo que hacen es no subir los cambios directamente a master si no que si se hacen cambios de manera local, estos se suben como PR y cuando se suben pedirle a la persona encargada del repo si acepta los cambios o no en la rama pirncipal
+
+despues de esto si se puede hacer el git clone y hacer los cambios necesarios
 """
